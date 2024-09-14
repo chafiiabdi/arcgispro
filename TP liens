@@ -1,0 +1,37 @@
+‌Bonjour à tous,
+
+Voici les TP de cet après midi :
+ 
+TP1 : https://pro.arcgis.com/fr/pro-app/get-started/create-a-project.htm
+Suite Ajouter des données à un projet—ArcGIS Pro | Documentation
+Fin Explorer les données—ArcGIS Pro | Documentation
+ 
+TP2 : https://pro.arcgis.com/fr/pro-app/get-started/author-a-map.htm
+Suite https://pro.arcgis.com/fr/pro-app/get-started/add-maps-to-a-layout.htm
+ 
+TP 3 : https://learn.arcgis.com/fr/projects/get-started-with-arcgis-pro/
+ 
+TP 4: https://learn.arcgis.com/fr/projects/cartographic-creations-in-arcgis-pro/
+ 
+
+Le premier possède une partie sur Spatial Analyst (une extension d'ArcGis qui rajoute des outils dans votre boîte à outils et qui permet notamment de réaliser des analyses spatiales plus poussées via ces nouveaux outils de géotratiement) :
+
+https://pro.arcgis.com/fr/pro-app/get-started/use-geoprocessing-tools.htm
+
+Le dernier est un récapitulatif de tout ce que vous aurez vu, avec un peu de Python en prime :
+
+https://learn.arcgis.com/fr/projects/identify-schools-for-a-mentoring-program/
+
+
+Et pour finir un peu de 3D :
+
+https://learn.arcgis.com/fr/projects/fly-through-south-america-in-a-3d-animation/
+
+https://learn.arcgis.com/fr/projects/map-venice-in-2d-and-3d/
+ 
+ 
+
+IMBERT Pierre-Yves
+
+
+ 
